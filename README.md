@@ -17,5 +17,21 @@ A paginação é dinâmica, de forma que a numeração deve corresponder com a q
 Cada item contém as seguintes informações: 
 Nome da listagem 
 Frequência de atualização 
-Datas do último publicado e o  mais antigo 
-Cada item deve ser um link para a listagem de livros do gênero.
+Datas do último publicado e o mais antigo 
+Cada item é um link para a listagem de livros do gênero.
+
+## 💻 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+* Visual Studio Code (Editor de código);
+
+* HTML;
+
+* JavaScript
+
+* CSS;
+
+* React;
+
+*Typescript;
