@@ -28,13 +28,13 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 * HTML;
 
-* JavaScript
+* JavaScript;
 
 * CSS;
 
 * React;
 
- *Typescript;
+*Typescript;
 
 ### 💻 Run Web Project
 
