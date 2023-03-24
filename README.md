@@ -35,3 +35,14 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 * React;
 
 *Typescript;
+
+### 💻 Run Web Project
+
+```bash
+# Install Dependencies
+$ yarn install or npm install
+
+# Run Aplication
+$ yarn start or npm start 
+```
+Go to http://localhost:3000/ to see the result.
