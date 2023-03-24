@@ -34,7 +34,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 * React;
 
-  *Typescript;
+ *Typescript;
 
 ### 💻 Run Web Project
 
